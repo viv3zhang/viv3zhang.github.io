@@ -1,0 +1,13 @@
+.content-section{
+ padding-top:150px;
+ padding-bottom:150px;
+
+}
+
+.carousel-inner.carousel-1 {
+  max-height: 900px;
+}
+
+.carousel-inner.carousel-2 {
+  max-height: 600px;
+}
